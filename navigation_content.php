@@ -11,14 +11,16 @@
 				</form>
 			</div>
 			<div id="hidden_bar">
-				<h3>Hi Ezazul</h3>
+				<h3>Hi '.$nick_name.'</h3>
 				<ul id="hidden_bar_list">
-					<li><a href="index.php">Home</a></li>
-					<li><a href="syllabus.php">Syllabus</a></li>
-					<li><a href="qp.php">Question Paper</a></li>
-					<li><a href="books.php">Books</a></li>
-					<li><a href="journals.php">Journals</a></li>
-					<li><a href="photos.php">Photos</a></li>
+					<li><a href="index.php"><h5>Home</h5></a></li>
+					<li><a href="myProfile.php"><h5>Profile</h5></a></li>
+					<li><a href="logout.php"><h5>Log Out</h5></a></li>
+					<li><a href="syllabus.php"><h5>Syllabus</h5></a></li>
+					<li><a href="question_paper.php"><h5>Question Paper<h5></a></li>
+					<li><a href="books.php"><h5>Books</h5></a></li>
+					<li><a href="journals.php"><h5>Journals</h5></a></li>
+					<li><a href="photos.php"><h5>Photos</h5></a></li>
 				</ul>
 			</div>
 	';
